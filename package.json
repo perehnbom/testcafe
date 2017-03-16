@@ -1,0 +1,22 @@
+{
+  "name": "testcafelab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome simpletest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perehnbom/testcafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perehnbom/testcafe/issues"
+  },
+  "homepage": "https://github.com/perehnbom/testcafe#readme",
+  "dependencies" : {
+    "testcafe" : "latest"
+  }
+}
